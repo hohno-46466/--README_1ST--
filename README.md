@@ -5,7 +5,7 @@
 Zone名一覧
 
 ----------
-## 採用中
+### 採用中
 ----------
 
 aZone - Apple, Android & AWS Zone
@@ -37,7 +37,7 @@ wZone - Windows Zone
 xZone - eXperimental and management Zone ?
 
 ----------
-## 採用見送り
+### 採用見送り
 ----------
 
 gZone - global ? 
@@ -54,7 +54,7 @@ zZone - ("z" は視認性がよくない（数字の"2"や大文字の"Z"との�
 
 
 ----------
-## 未割り当て
+### 未割り当て
 ----------
 
 fZone - 
