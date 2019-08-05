@@ -1,12 +1,5 @@
 # __README__
 
-
-#### First Version: Sun Aug  7 10:07:00 JST 2016
-#### Prev update: Sun Oct 30 15:47:32 JST 2016
-#### Prev update: Mon Sep 25 05:45:14 JST 2017
-#### Prev update: Sat Feb  3 09:05:59 JST 2018
-#### Prev update: Sun Feb 18 10:04:29 JST 2018
-#### Prev update: Wed Feb 21 14:50:00 JST 2018
 #### Last update: Mon Aug  5 06:08:04 JST 2019
 
 ----------
