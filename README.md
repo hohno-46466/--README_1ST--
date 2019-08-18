@@ -18,7 +18,7 @@ cZone - Code Zone
 
 dZone - Data & Document Zone
 
-eZone - Education Zonw
+eZone - Education Zone
 
 jZone - Joint project Zone ?
 
@@ -50,7 +50,7 @@ lZone - ("l" は視認性がよくないので採用するか否かは要検討�
 
 oZone - ("o" は視認性がよくないので採用するか否かは要検討） Office Zone ?
 
-qZone - (小文字の "q" は "g" との誤認があるので "q" と "g" はどちらか一方にするのが安全か) 
+qZone - (小文字の "q" は "g" との誤認があるので "q" と "g" はどちらか一方にするのが安全か)  -> gZone を採用して qZoneを見送る？
 
 zZone - ("z" は視認性がよくない（数字の"2"や大文字の"Z"との混同の恐れあり）ので採用するか否かは要検討）
 
