@@ -2,7 +2,9 @@
 
 #### Prev update: Mon Aug  5 06:08:04 JST 2019
 
-#### Last update: Wed Aug 14 20:38:45 JST 2019
+#### Prev update: Wed Aug 14 20:38:45 JST 2019
+
+#### Last update: Sun Mar 15 09:15:09 JST 2020
 
 ## Zone名一覧
 
@@ -42,7 +44,9 @@ xZone - eXperimental and management Zone ?
 #### 採用見送り / Not Good To Be Assigned
 ----------------------------------------
 
-gZone - (小文字の "q" は "g" との誤認があるので "q" と "g" はどちらか一方にするのが安全か) - global ? 
+gZone - (小文字の "q" は "g" との誤認があるので "q" と "g" はどちらか一方にするのが安全か) - global ?
+
+hZone - (小文字の "h" は "n" との誤認があるので "h" と "n" はどちらか一方にするのが安全か) - health ? (-> dZone/health ?)
 
 iZone - ("i" も "l" や "o" 同様，視認性がよくないので要検討） ex iOS zone ? (-> cZone/iOS ?)
 
@@ -58,15 +62,13 @@ zZone - ("z" は視認性がよくない（数字の"2"や大文字の"Z"との�
 #### 未割り当て / Not Assigned Yet
 ----------------------------------------
 
-fZone - 
+fZone -
 
-hZone - health ? (-> dZone/health ?)
+kZone -
 
-kZone - 
+nZone - next zone ?
 
-nZone - 
-
-vZone - virtual zone ?
+vZone - virtual zone ? (Reserved for future expansion ?)
 
 yZone -
 
