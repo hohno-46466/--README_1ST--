@@ -24,19 +24,21 @@ dZone - Data & Document Zone
 
 eZone - Education Zone
 
-jZone - Joint project Zone ?
+gZone - Global Zone ? (小文字の "q" は "g" との誤認があるので "q" と "g" はどちらか一方にするのが安全かと) - global って具体的には何？
+
+jZone - Joint project Zone ? / Japan (Japanese language) Zone ?
 
 mZone - MAKER Zone
 
-pZone - Private Zone
+pZone - Private / Project Zone
 
 rZone - Research Zone
 
-sZone - Special Zone 
+sZone - Special Zone
 
 tZone - Test/Temporary Zone
 
-uZone - Unix Zone (Universal Zone ?)
+uZone - Unix Zone (Universal Zone にしてしまうと Global Zone との違いがわからなくなる)
 
 wZone - Windows Zone
 
@@ -46,19 +48,17 @@ xZone - eXperimental and management Zone ?
 #### 採用見送り / Not Good To Be Assigned
 ----------------------------------------
 
-gZone - (小文字の "q" は "g" との誤認があるので "q" と "g" はどちらか一方にするのが安全か) - global ?
+hZone - (小文字の "h" は "n" との誤認があるので "h" と "n" はどちらか一方にするのが安全かと) - h は health ? (-> dZone/health ?)
 
-hZone - (小文字の "h" は "n" との誤認があるので "h" と "n" はどちらか一方にするのが安全か) - health ? (-> dZone/health ?)
+iZone - ("i" も "l" や "o" 同様，視認性がよくないので採用しない） ex iOS zone ? (-> cZone/iOS ?)
 
-iZone - ("i" も "l" や "o" 同様，視認性がよくないので要検討） ex iOS zone ? (-> cZone/iOS ?)
+lZone - ("l" は視認性がよくないので採用しない）
 
-lZone - ("l" は視認性がよくないので採用するか否かは要検討）
+oZone - ("o" は視認性がよくないので採用しない） Office Zone ?
 
-oZone - ("o" は視認性がよくないので採用するか否かは要検討） Office Zone ?
+qZone - (小文字の "q" は "g" との誤認があるので "q" と "g" はどちらか一方にするのが安全)  -> gZone を採用して qZoneを見送る？
 
-qZone - (小文字の "q" は "g" との誤認があるので "q" と "g" はどちらか一方にするのが安全か)  -> gZone を採用して qZoneを見送る？
-
-zZone - ("z" は視認性がよくない（数字の"2"や大文字の"Z"との混同の恐れあり）ので採用するか否かは要検討）
+zZone - ("z" は視認性がよくない（数字の"2"や大文字の"Z"との混同の恐れあり）ので採用しない）
 
 ----------------------------------------
 #### 未割り当て / Not Assigned Yet
